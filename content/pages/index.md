@@ -386,7 +386,7 @@ sections:
           padding:
             - pr-0
             - pt-0
-            - pl-44
+            - pl-0
             - pb-0
           margin:
             - mt-0

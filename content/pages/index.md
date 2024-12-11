@@ -382,7 +382,7 @@ sections:
       type: ImageBlock
       styles:
         self:
-          borderWidth: 2
+          borderWidth: 0
     badge:
       label: Lokasyonumuz
       color: text-primary

@@ -384,7 +384,10 @@ sections:
         self:
           borderWidth: 0
           padding:
-            - pr-56
+            - pr-80
+            - pt-80
+            - pl-80
+            - pb-80
     badge:
       label: Lokasyonumuz
       color: text-primary

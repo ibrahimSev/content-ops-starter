@@ -389,10 +389,10 @@ sections:
             - pl-80
             - pb-80
           margin:
-            - mt-80
-            - ml-80
-            - mb-80
-            - mr-80
+            - mt-0
+            - ml-0
+            - mb-0
+            - mr-0
     badge:
       label: Lokasyonumuz
       color: text-primary

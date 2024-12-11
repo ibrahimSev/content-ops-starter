@@ -362,13 +362,7 @@ sections:
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
+    actions: []
     media:
       url: /images/Ekran görüntüsü 2024-12-11 205618.png
       altText: Dope design preview

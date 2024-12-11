@@ -380,6 +380,9 @@ sections:
       url: /images/Ekran görüntüsü 2024-12-11 205618.png
       altText: Dope design preview
       type: ImageBlock
+      styles:
+        self:
+          borderWidth: 2
     badge:
       label: Lokasyonumuz
       color: text-primary

@@ -369,13 +369,6 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
     media:
       url: /images/Ekran görüntüsü 2024-12-11 205618.png
       altText: Dope design preview

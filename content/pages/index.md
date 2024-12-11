@@ -384,10 +384,10 @@ sections:
         self:
           borderWidth: 0
           padding:
-            - pr-96
-            - pt-96
-            - pl-96
-            - pb-96
+            - pr-0
+            - pt-0
+            - pl-0
+            - pb-0
           margin:
             - mt-0
             - ml-0

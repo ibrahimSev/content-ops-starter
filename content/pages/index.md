@@ -383,6 +383,8 @@ sections:
       styles:
         self:
           borderWidth: 0
+          padding:
+            - pr-56
     badge:
       label: Lokasyonumuz
       color: text-primary

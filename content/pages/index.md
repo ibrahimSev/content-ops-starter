@@ -354,11 +354,7 @@ sections:
       self:
         alignItems: center
     type: GenericSection
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
+  - subtitle: ''
     text: ''
     actions: []
     media:

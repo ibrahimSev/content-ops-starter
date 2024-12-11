@@ -355,8 +355,7 @@ sections:
         alignItems: center
     type: GenericSection
   - subtitle: ''
-    text: |
-      asd
+    text: ''
     actions: []
     media:
       url: /images/Ekran görüntüsü 2024-12-11 205618.png

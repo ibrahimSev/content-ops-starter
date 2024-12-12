@@ -364,6 +364,36 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - subtitle: ''
+    text: ''
+    actions: []
+    media:
+      altText: Dope design preview
+      type: ImageBlock
+      styles:
+        self:
+          borderWidth: 0
+          padding:
+            - pr-0
+            - pt-0
+            - pl-0
+            - pb-0
+          margin:
+            - mt-0
+            - ml-0
+            - mb-0
+            - mr-0
+      url: /images/Ekran görüntüsü 2024-12-11 205618(2).png
+    badge:
+      label: Lokasyonumuz
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+    type: GenericSection
   - type: CarouselSection
     title: null
     subtitle: What our customers say about us
@@ -556,36 +586,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: ''
-    text: ''
-    actions: []
-    media:
-      altText: Dope design preview
-      type: ImageBlock
-      styles:
-        self:
-          borderWidth: 0
-          padding:
-            - pr-0
-            - pt-0
-            - pl-0
-            - pb-0
-          margin:
-            - mt-0
-            - ml-0
-            - mb-0
-            - mr-0
-      url: /images/Ekran görüntüsü 2024-12-11 205618(2).png
-    badge:
-      label: Lokasyonumuz
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
   - title:
       text: List of features here
       color: text-primary

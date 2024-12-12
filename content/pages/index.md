@@ -383,6 +383,7 @@ sections:
             - ml-0
             - mb-0
             - mr-0
+      url: /images/Ekran görüntüsü 2024-12-11 205618(2).png
     badge:
       label: Lokasyonumuz
       color: text-primary

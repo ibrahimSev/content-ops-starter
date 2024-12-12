@@ -683,19 +683,18 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: >+
+    text: >
       Telefon 0(530) 377 2360
 
 
       Faks
 
 
-      E-posta ibrahim\@fensterwin.com
+      E-posta <ibrahim@fensterwin.com>
 
 
-      Adres [SÖĞÜTLÜ MEVKİİ 813. SK NO:11 SÖĞÜTLÜ KÖYÜ/ ÇİLİMLİ/
-      DÜZCE](https://maps.app.goo.gl/9JVQiw6K5zkV1oQW9)
-
+      Adres [<sub>SÖĞÜTLÜ MEVKİİ 813. SK NO:11 SÖĞÜTLÜ KÖYÜ/ ÇİLİMLİ/
+      DÜZCE</sub>](https://maps.app.goo.gl/9JVQiw6K5zkV1oQW9)
     media:
       fields:
         - name: name

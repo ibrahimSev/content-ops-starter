@@ -693,8 +693,8 @@ sections:
       E-posta <ibrahim@fensterwin.com>
 
 
-      Adres [<sub>SÖĞÜTLÜ MEVKİİ 813. SK NO:11 SÖĞÜTLÜ KÖYÜ/ ÇİLİMLİ/
-      DÜZCE</sub>](https://maps.app.goo.gl/9JVQiw6K5zkV1oQW9)
+      Adres [SÖĞÜTLÜ MEVKİİ 813. SK NO:11 SÖĞÜTLÜ KÖYÜ/ ÇİLİMLİ/
+      DÜZCE](https://maps.app.goo.gl/9JVQiw6K5zkV1oQW9)
     media:
       fields:
         - name: name

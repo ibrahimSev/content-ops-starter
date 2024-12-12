@@ -394,6 +394,10 @@ sections:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - type: CarouselSection
     title: null
     subtitle: What our customers say about us

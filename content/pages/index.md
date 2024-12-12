@@ -679,7 +679,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: iletişim içi
+      text: iletişim için
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle

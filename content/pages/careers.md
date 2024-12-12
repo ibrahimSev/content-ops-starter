@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: ekip
 slug: careers
 sections:
   - title:
